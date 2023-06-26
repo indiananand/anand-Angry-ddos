@@ -20,7 +20,7 @@ o88o     o8888o o888o o888o `8oooooo.  d888b        .8'             o888bood8P' 
 print ('''
 
     | ---------
-    |   + Application Developer : Mohammad Babaee
+    |   + Application Developer : Anand
     | ---------
     | +++ Note : You Can Stop The Attack By Press : CTRL + Z
     | ---------
